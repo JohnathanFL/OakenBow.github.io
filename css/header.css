@@ -1,0 +1,15 @@
+* {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.navbar .nav li {
+    display: table-cell;
+    float: none;
+    width: 1%;
+    font-size: 24pt;
+    text-align: center;
+}
